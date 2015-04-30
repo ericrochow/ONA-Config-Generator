@@ -1,0 +1,1 @@
+select * from ona_default_11.subnet_types;
